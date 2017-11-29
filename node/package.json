@@ -1,0 +1,19 @@
+{
+  "name": "syslog-server",
+  "version": "1.0.0",
+  "description": "a simple syslog server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "node_modules/.bin/tsc",
+    "run": "tsc && node out/main"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
+}

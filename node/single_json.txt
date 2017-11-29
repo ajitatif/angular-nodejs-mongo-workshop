@@ -1,0 +1,1 @@
+{"com.vg.tr.pi.inbound.sap.wservices.seros.partner.PartnerAccountBalance":{"partnerNumber":"0020330280","date":"Nov 28, 2017 12:00:00 AM","__hashCodeCalc":false}}
